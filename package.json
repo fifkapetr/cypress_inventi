@@ -1,0 +1,19 @@
+{
+  "name": "cypress_inventi_17052022",
+  "version": "1.0.0",
+  "description": "learning cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fifkapetr/cypress_inventi.git"
+  },
+  "author": "Petr Fifka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fifkapetr/cypress_inventi/issues"
+  },
+  "homepage": "https://github.com/fifkapetr/cypress_inventi#readme"
+}
